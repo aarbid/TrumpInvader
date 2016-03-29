@@ -2,7 +2,7 @@
 Trump destroying game for a high school class
 
 
-here's the companion site: https://github.com/aarbid/TrumpInvader.git
+Here's the companion site: https://github.com/aarbid/TrumpInvader.git
 
 
-make GitHub great again
+Make GitHub great again
